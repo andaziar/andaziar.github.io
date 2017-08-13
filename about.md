@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Miran Andaziar. Born 1990 in the northern parts of Stockholm, Sweden. Always fancied computers and tech in general.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+:books: Studied computer science at Royal Institute of Technology (KTH). Graduated 2015.
 
-### Contact me
+:computer: As of 2014, senior consultant at Netlight Consulting.
 
-[email@domain.com](mailto:email@domain.com)
+More to come...
+
+### Contact
+
+You can reach me at [miran.andaziar@gmail.com](mailto:miran.andaziar@gmail.com).
