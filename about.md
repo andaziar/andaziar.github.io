@@ -8,12 +8,11 @@ My name is Miran Andaziar. Born 1990 in the northern parts of Stockholm, Sweden.
 
 ### More Information
 
-:books: Studied computer science at Royal Institute of Technology (KTH). Graduated 2015.
+:man_student: Studied computer science at Royal Institute of Technology (KTH). Graduated 2015.
 
 :computer: As of 2014, senior consultant at Netlight Consulting.
 
-More to come...
-
+:robot: Really into machine learning and data science
 ### Contact
 
-You can reach me at [miran.andaziar@gmail.com](mailto:miran.andaziar@gmail.com).
+You can reach me at [miran.andaziar@gmail.com](mailto:miran.andaziar@gmail.com)
