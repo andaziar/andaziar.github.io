@@ -13,6 +13,8 @@ My name is Miran Andaziar. Born 1990 in the northern parts of Stockholm, Sweden.
 :computer: As of 2014, senior consultant at Netlight Consulting.
 
 :robot: Really into machine learning and data science
+
+:hamburger: 90% burgers in my blood stream. The rest is :icecream:
 ### Contact
 
 You can reach me at [miran.andaziar@gmail.com](mailto:miran.andaziar@gmail.com)
